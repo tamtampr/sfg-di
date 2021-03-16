@@ -8,7 +8,7 @@ public class MyController {
 
     public String sayHello(){
 
-        System.out.println("Hello World!!!");
+        System.out.println("Hello World!!! From MyController Class");
 
         return "Hi Folks";
     }
